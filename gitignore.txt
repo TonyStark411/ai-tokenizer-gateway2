@@ -1,0 +1,11 @@
+// Root Level Files
+
+// 1. .gitignore (Add this first to prevent uploading sensitive data)
+node_modules/
+.env
+.env.local
+.DS_Store
+*.log
+npm-debug.log*
+dist/
+build/
