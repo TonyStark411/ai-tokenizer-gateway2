@@ -1,4 +1,4 @@
-// config/blockchain-config.js - Blockchain Configuration
+// config/blockchain.js - Blockchain Configuration
 
 const { ethers } = require('ethers');
 require('dotenv').config();
